@@ -4,9 +4,8 @@
 class Solution {
     public static void main(String[] args) {
         int n =5;
-        int count=0;
         for (int i =1;i<=n;i++){
-            for(char j='A';j<='A'+i;j++){
+            for(char j='A';j<'A'+i;j++){
                 System.out.print(j);
         }
             System.out.println();
