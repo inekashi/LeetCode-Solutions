@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/inekashi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0704-binary-search](https://github.com/inekashi/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/inekashi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/inekashi/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
