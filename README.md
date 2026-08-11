@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/inekashi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/inekashi/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/inekashi/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,4 +44,5 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/inekashi/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
