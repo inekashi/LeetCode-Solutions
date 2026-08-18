@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/inekashi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/inekashi/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/inekashi/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/inekashi/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/inekashi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/inekashi/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/inekashi/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/inekashi/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
